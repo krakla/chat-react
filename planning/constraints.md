@@ -1,6 +1,5 @@
 # Constraints
 
-Some boundaries around the project.
 
 ## External
 
