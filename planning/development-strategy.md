@@ -1,4 +1,4 @@
-# Slack clone
+# Slack like chat app
 
 <!-- describe your project -->
 
